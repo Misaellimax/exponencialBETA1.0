@@ -1,2 +1,2 @@
 # exponencialBETA1.0
- programa feito a pedido do professor para alunos do curso de engenharia
+ programa em Python com Tkinter e Matplotlib para criar gráficos exponenciais interativos. Ele ajuda alunos de engenharia e de outros cursos a visualizar dados complexos de maneira intuitiva.
